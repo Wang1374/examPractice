@@ -1,0 +1,510 @@
+-1 09-18 00:01:46.500 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m18s663ms).
+-1 09-18 00:50:49.477 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m2s976ms).
+-1 09-18 01:25:18.398 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m28s922ms).
+-1 09-18 02:16:43.458 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m25s60ms).
+-1 09-18 03:06:57.365 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m13s907ms).
+-1 09-18 03:39:29.951 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m32s585ms).
+-1 09-18 04:30:28.901 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m58s950ms).
+-1 09-18 05:19:17.277 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m48s377ms).
+-1 09-18 05:52:23.480 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m6s203ms).
+-1 09-18 06:30:31.559 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m8s78ms).
+-1 09-18 07:05:00.389 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m28s831ms).
+-1 09-18 07:54:32.659 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m32s269ms).
+-1 09-18 08:42:12.477 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m39s819ms).
+-1 09-18 09:15:20.129 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m7s651ms).
+-1 09-18 10:03:48.261 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m28s133ms).
+-1 09-18 10:35:38.068 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m49s806ms).
+-1 09-18 11:04:09.285 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m31s217ms).
+-1 09-18 11:27:40.948 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m31s664ms).
+-1 09-18 12:19:30.153 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m49s205ms).
+-1 09-18 13:11:38.890 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m8s737ms).
+-1 09-18 14:00:58.346 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m19s456ms).
+-1 09-18 15:22:40.089 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21m41s743ms).
+-1 09-18 16:05:31.913 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m51s824ms).
+-1 09-18 16:11:28.095 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m56s182ms).
+-1 09-18 17:17:00.408 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m32s313ms).
+-1 09-18 18:14:04.553 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57m4s143ms).
+-1 09-18 19:23:36.362 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+-1 09-18 19:23:36.419 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+-1 09-18 19:23:47.544 | main |-INFO  c.e.d.ExamSystemPracticeApplication:55 - Starting ExamSystemPracticeApplication using Java 1.8.0_322 on SW.local with PID 83043 (/Users/sw/Desktop/ExamSystemPractice/${project.build.directory}/classes started by sw in /Users/sw/Desktop/examsystemDemo/ExamSystemPractice)
+-1 09-18 19:23:47.547 | main |-INFO  c.e.d.ExamSystemPracticeApplication:634 - No active profile set, falling back to 1 default profile: "default"
+-1 09-18 19:23:49.422 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:262 - Multiple Spring Data modules found, entering strict repository configuration mode
+-1 09-18 19:23:49.425 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+-1 09-18 19:23:49.491 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 45 ms. Found 0 Redis repository interfaces.
+-1 09-18 19:23:51.439 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9092 (http)
+-1 09-18 19:23:51.459 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9092"]
+-1 09-18 19:23:51.460 | main |-INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+-1 09-18 19:23:51.461 | main |-INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+-1 09-18 19:23:52.086 | main |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+-1 09-18 19:23:52.087 | main |-INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:292 - Root WebApplicationContext: initialization completed in 4388 ms
+-1 09-18 19:23:55.633 | main |-INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+-1 09-18 19:23:56.569 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9092"]
+-1 09-18 19:23:56.598 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9092 (http) with context path ''
+-1 09-18 19:23:56.601 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:160 - Context refreshed
+-1 09-18 19:23:56.639 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+-1 09-18 19:23:56.678 | main |-INFO  s.d.s.w.s.ApiListingReferenceScanner:41 - Scanning for api listing references
+-1 09-18 19:23:57.233 | main |-INFO  c.e.d.ExamSystemPracticeApplication:61 - Started ExamSystemPracticeApplication in 10.725 seconds (JVM running for 11.657)
+-1 09-18 19:24:21.074 | http-nio-9092-exec-1 |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+-1 09-18 19:24:21.077 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+-1 09-18 19:24:21.085 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 8 ms
+-1 09-18 19:24:21.199 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=c09EU8LaorxMrOLRIVw7k2m5FMKLyo6fYViqCL83eNRCCj3hj7KUU08Ce9snmgzigtpq4UHyaAgilqFGTctvtgzpR4Pfoa+QHCRbmFArkKI7bV4icGd+jqgUzidgATvIAUWCcz3fDSIWumx7dDceHyPC6CakqopFe90IgcajZd7rs2vI2qGw5grN10PXm4+bjeGmO0NDFO6UUidF8qxytcaA6XSPGYL3lrhMhk7xxuHlXk38zqgtH46aG9B3Ea4M6Ef7Q5lhsxOwM6LSXrvhIKlF5IHymUmTGO4klX/Buzi6Y7tYiH204ENp7Yc6QqO71F+IbqDxMyaZtfLe9VuYkw==, password=mEOP3PtEw9fqSnmIjCgRpEE8jCNAJ6rhvkrbzKtZEP7mFkoGuLI56EBLMTqR+/HYve2vKSIEKqVPxPgLbHUU0KjMVQkezQEKlA43StcX90KUXeA8yebf1B2HBdsrx25Xs02UxsIKjfMvJ7sSgQoGWl+kMYhoqyBDtjCL8uAQp93j7+A2nC9oCaWr0bn/jGWD5H1SPIKGJ8SWu7tXn+7nPcP0vPM2q2zyHleh1G97Pi9tJcG1+zCT4OuUUWW6ii7Bf8SGdjNHtDAq3v5f1WjzzevmI2CydgqqewoK6nCNEO6eunIoXklwTzUi72njAwE4hqVVEYlj5hJPnWyX5fAMpw==)
+-1 09-18 19:24:21.343 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+-1 09-18 19:24:22.054 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+-1 09-18 19:24:22.250 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:30 - -----Token----------
+-1 09-18 19:24:22.288 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:38 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYyOTg2Mn0.B030eS2qUFFeRdlV-M-EcBwO9wKO8pxItTIk4_IVmnQ-------
+-1 09-18 19:24:22.289 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 19:24:23.059 | http-nio-9092-exec-2 |-ERROR o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:353)
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:379)
+	at org.apache.tomcat.util.codec.binary.Base64.decodeBase64(Base64.java:172)
+	at com.example.demo.util.RsaUtil.decrypt(RsaUtil.java:77)
+	at com.example.demo.filter.JwtInterceptor.preHandle(JwtInterceptor.java:30)
+	at org.springframework.web.servlet.HandlerExecutionChain.applyPreHandle(HandlerExecutionChain.java:148)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+-1 09-18 19:24:23.077 | http-nio-9092-exec-2 |-ERROR o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] threw exception
+java.lang.NullPointerException: null
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:353)
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:379)
+	at org.apache.tomcat.util.codec.binary.Base64.decodeBase64(Base64.java:172)
+	at com.example.demo.util.RsaUtil.decrypt(RsaUtil.java:77)
+	at com.example.demo.filter.JwtInterceptor.preHandle(JwtInterceptor.java:30)
+	at org.springframework.web.servlet.HandlerExecutionChain.applyPreHandle(HandlerExecutionChain.java:148)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:102)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:102)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:711)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:385)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:313)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:403)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:249)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:344)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+-1 09-18 19:24:23.079 | http-nio-9092-exec-2 |-ERROR o.a.c.c.C.[Tomcat].[localhost]:175 - Exception Processing ErrorPage[errorCode=0, location=/error]
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:102)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:102)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:711)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:385)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:313)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:403)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:249)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:344)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.NullPointerException: null
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:353)
+	at org.apache.tomcat.util.codec.binary.BaseNCodec.decode(BaseNCodec.java:379)
+	at org.apache.tomcat.util.codec.binary.Base64.decodeBase64(Base64.java:172)
+	at com.example.demo.util.RsaUtil.decrypt(RsaUtil.java:77)
+	at com.example.demo.filter.JwtInterceptor.preHandle(JwtInterceptor.java:30)
+	at org.springframework.web.servlet.HandlerExecutionChain.applyPreHandle(HandlerExecutionChain.java:148)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	... 36 common frames omitted
+-1 09-18 19:40:36.751 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+-1 09-18 19:40:36.786 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+-1 09-18 19:40:43.863 | main |-INFO  c.e.d.ExamSystemPracticeApplication:55 - Starting ExamSystemPracticeApplication using Java 1.8.0_322 on SW.local with PID 83329 (/Users/sw/Desktop/ExamSystemPractice/${project.build.directory}/classes started by sw in /Users/sw/Desktop/examsystemDemo/ExamSystemPractice)
+-1 09-18 19:40:43.869 | main |-INFO  c.e.d.ExamSystemPracticeApplication:634 - No active profile set, falling back to 1 default profile: "default"
+-1 09-18 19:40:45.307 | main |-WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'getJwtInterceptor' must not be private or final; change the method's modifiers to continue
+Offending resource: class path resource [com/example/demo/filter/InterceptorConfig.class]
+-1 09-18 19:40:45.337 | main |-INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+-1 09-18 19:40:45.396 | main |-ERROR o.s.boot.SpringApplication:824 - Application run failed
+org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'getJwtInterceptor' must not be private or final; change the method's modifiers to continue
+Offending resource: class path resource [com/example/demo/filter/InterceptorConfig.class]
+	at org.springframework.beans.factory.parsing.FailFastProblemReporter.error(FailFastProblemReporter.java:72)
+	at org.springframework.context.annotation.BeanMethod.validate(BeanMethod.java:52)
+	at org.springframework.context.annotation.ConfigurationClass.validate(ConfigurationClass.java:220)
+	at org.springframework.context.annotation.ConfigurationClassParser.validate(ConfigurationClassParser.java:216)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:332)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.example.demo.ExamSystemPracticeApplication.main(ExamSystemPracticeApplication.java:10)
+-1 09-18 19:52:09.822 | main |-INFO  c.e.d.ExamSystemPracticeApplication:55 - Starting ExamSystemPracticeApplication using Java 1.8.0_322 on SW.local with PID 83671 (/Users/sw/Desktop/ExamSystemPractice/${project.build.directory}/classes started by sw in /Users/sw/Desktop/examsystemDemo/ExamSystemPractice)
+-1 09-18 19:52:09.827 | main |-INFO  c.e.d.ExamSystemPracticeApplication:634 - No active profile set, falling back to 1 default profile: "default"
+-1 09-18 19:52:11.222 | main |-WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'getJwtInterceptor' must not be private or final; change the method's modifiers to continue
+Offending resource: class path resource [com/example/demo/filter/InterceptorConfig.class]
+-1 09-18 19:52:11.242 | main |-INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+-1 09-18 19:52:11.270 | main |-ERROR o.s.boot.SpringApplication:824 - Application run failed
+org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: @Bean method 'getJwtInterceptor' must not be private or final; change the method's modifiers to continue
+Offending resource: class path resource [com/example/demo/filter/InterceptorConfig.class]
+	at org.springframework.beans.factory.parsing.FailFastProblemReporter.error(FailFastProblemReporter.java:72)
+	at org.springframework.context.annotation.BeanMethod.validate(BeanMethod.java:52)
+	at org.springframework.context.annotation.ConfigurationClass.validate(ConfigurationClass.java:220)
+	at org.springframework.context.annotation.ConfigurationClassParser.validate(ConfigurationClassParser.java:216)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:332)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.example.demo.ExamSystemPracticeApplication.main(ExamSystemPracticeApplication.java:10)
+-1 09-18 19:53:26.017 | main |-INFO  c.e.d.ExamSystemPracticeApplication:55 - Starting ExamSystemPracticeApplication using Java 1.8.0_322 on SW.local with PID 83694 (/Users/sw/Desktop/ExamSystemPractice/${project.build.directory}/classes started by sw in /Users/sw/Desktop/examsystemDemo/ExamSystemPractice)
+-1 09-18 19:53:26.022 | main |-INFO  c.e.d.ExamSystemPracticeApplication:634 - No active profile set, falling back to 1 default profile: "default"
+-1 09-18 19:53:27.865 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:262 - Multiple Spring Data modules found, entering strict repository configuration mode
+-1 09-18 19:53:27.869 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+-1 09-18 19:53:27.985 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 89 ms. Found 0 Redis repository interfaces.
+-1 09-18 19:53:29.557 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9092 (http)
+-1 09-18 19:53:29.592 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9092"]
+-1 09-18 19:53:29.593 | main |-INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+-1 09-18 19:53:29.594 | main |-INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+-1 09-18 19:53:29.792 | main |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+-1 09-18 19:53:29.794 | main |-INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:292 - Root WebApplicationContext: initialization completed in 3622 ms
+-1 09-18 19:53:32.149 | main |-INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+-1 09-18 19:53:32.972 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9092"]
+-1 09-18 19:53:33.013 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9092 (http) with context path ''
+-1 09-18 19:53:33.017 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:160 - Context refreshed
+-1 09-18 19:53:33.050 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+-1 09-18 19:53:33.109 | main |-INFO  s.d.s.w.s.ApiListingReferenceScanner:41 - Scanning for api listing references
+-1 09-18 19:53:33.579 | main |-INFO  c.e.d.ExamSystemPracticeApplication:61 - Started ExamSystemPracticeApplication in 8.444 seconds (JVM running for 9.585)
+-1 09-18 19:53:42.066 | http-nio-9092-exec-1 |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+-1 09-18 19:53:42.069 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+-1 09-18 19:53:42.082 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 12 ms
+-1 09-18 19:53:42.234 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=Mwkh4QdptvDbbKWafBf7Y5Y6J+p/7pg8t9l1n/2nGUus7kHott1i12aqto9kAeaAiFASQwevy4N1WmqtWC+3Al3jWdO+QovwxZjxry9umywkke5R2LTOjytOYmbB4KXubLJnniaFSZKFn/oRaBES5LHUTFIQdt/lu20iOXl9BRX01Q7y9PKw7Z3UufpazmmQ4mu+IU2s6CV8sK42emMrW9ry2cwzandIt7ACMNAV3JVoFRF8+ye8mI4tObXwSf/cJllbgYVMBZ6NlPnFJohQj8bBWC8qtiMTD7mc8e64+EN7r4Te/tx8XSic6pKyqYHKFYbbPkwggZtt4ZcgfA9yhg==, password=nNrMHOHo3vviM4DZKgy8V4JbAc183zCFfqnNTXtgqz6z3hioCSllGzY6xmsT+ElBqXC5WZjk/GAScS4F5lMBYSkhc2xULrjK00uv+u9LIW2sTTy9DSR+4uRiKVM1opISu8f5QJJJD+kBoRqZMcdNosNaeEPyJEWFgQndbr+231sMl47nzCcnpNw9mMv67hH48k4mYK3yItzlQrY+ig3+mtS4pX+JNwLKnSBWLC2Qi55/S5sORQT/Ncth0CUkdNZpudFpiKLipAUOwHzEuhgpjTMYrw5UyYe0FLaFpM8UaRVk32dGoZ6DNnEu2umKqivpQzJ3ru+AzHkkRWqAJ29aEQ==)
+-1 09-18 19:53:42.395 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+-1 09-18 19:53:43.221 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+-1 09-18 19:53:43.370 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:30 - -----Token----------
+-1 09-18 19:53:43.422 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:38 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMTYyM30.4rDLo-sEG2OqFPfSRvHMrxDWIDI9hI1CQgCDeT-6jXU-------
+-1 09-18 19:53:43.422 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 19:54:05.021 | http-nio-9092-exec-3 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=Q6g3qu7WcfaeEC8Td18BRneQ6edit6nUoqlwqkM0sD7VMKszE87CO7gGwR5Ar22g7c3Y9OwYIZdrASkA5Tyzn9xVYRMac3dYLbhAeW+1XXJOHq94arAujjxsw+S2MJ3M0am9DBGoyWk1lohGl/sQ5wVpxFAflK+k2X5jMz2LbiQY/zCT/8WGoZf+rO1fThXZ1kJK21qs7fSs3MEkgBHqBcmij/q+97v59jUhxhyZh9Bvl3jWalWAWTLRqxpdKWwnTHzTSAKWebX2lzGvllFK45OP0PReBej1RQ/KmCcfdT+VO4KpAf7tjhCnmiKm6lR07PKhswoDB+JaCeIuKHaFgg==, password=lAqhXYpOH4aLfAdsc4qgl310yNQU53rIPccJle6CaqTpPfP9jE4Cf7t1TtTqdfBL8kMKox0/rhkMNTcqMnTsAv/sBdpqkFLQKmKF/z76mEonBdNNbuhKEc8vplnt4+DK2FB8OIZpOMz0m/IEgmLHlFUk/R1P0ImAGgAChkRRxslF7wC8AtxU40+dcBZekkoz8C2ZlWpuTZNwSuliBSRdJqSXBKPClh3ErJilQQHtgn4Bl6Crnu+XxiMqS7fVqn2V9a5Nw7FqhcZX5oM95dWCmPCCxcziCDTGIvVlMZiIiIzWCV7QltdYNFWxLu9xe5oS8++CMN2MkSJ/yrWuSGOnoA==)
+-1 09-18 19:54:05.072 | http-nio-9092-exec-3 |-INFO  com.example.demo.util.TokenUtil:30 - -----Token----------
+-1 09-18 19:54:05.077 | http-nio-9092-exec-3 |-INFO  com.example.demo.util.TokenUtil:38 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMTY0NX0.7n0yZOrqmBuOItoC3yaOIEGuHVBsesim4tJxvo0pgxg-------
+-1 09-18 19:54:05.077 | http-nio-9092-exec-3 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 19:54:33.817 | http-nio-9092-exec-5 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=YLCjO04DJAaA7J9NURPuUkcF68N57hD4wvYpjin+pMy10UKDGPSqBqpeDYT5sa5WigjAKSEL7+CFf15U2zwkPbj9DU0jD/xmIOwBkVKIdZKR/A7db//DfxiTEql2Pf/4tmvFYzek/fjhEfY3flUHNckw02WJyMtZ4q53wDTcDVdPxDIoPupmLLglOJLGIe+7KX4kvi7UzMNp38CTCoQsiJnBuszb7GhnrbyELW70ZV9mmsyQftb23ixIEgg8Gc9LxMJgj2Ya9JzudFOW5HpJma3PBdRrN1fzgiJ2P6m6Zj+To1io+VYMiQ6P1eu0YFphsfjmdn0b8QC7OPdoURrXiA==, password=ae3JrbVwa3xACVoa1Xh8mhYixQDZGh8aZrX6XZ7hfKm21f32PbpUGiYCrBRoAMBlFvrv3AhApt7JKTQJ/ZopzUDYepg3r6D9X0K8wNatroaHj2dv82BAQVsfJzGKNob6RzHgfSpwrqiM249GYx+4o/0rCJQVktQ2FJASoROYIzE4rK+nxCJw46EQTcrm7Tslf+VA0mEN/ZrKhpEppIG4vYUO2uw/pZEniIU1ve1c9IgpBnCNgUJpoKvvQOUGJFzy0NzCWH67/2W6eYRGCu7TrBQUUendgmWH8pq6FWZVp6EQVWDY081xDWUkGsWKkiLzcerUImvNQ0hWiDSSwgVv1Q==)
+-1 09-18 19:54:33.872 | http-nio-9092-exec-5 |-INFO  com.example.demo.util.TokenUtil:30 - -----Token----------
+-1 09-18 19:54:33.874 | http-nio-9092-exec-5 |-INFO  com.example.demo.util.TokenUtil:38 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMTY3M30.fRGUzTh5pa6iLVYfxIg5Y2iZ4VyD9WTQZsARdBHRpP0-------
+-1 09-18 19:54:33.876 | http-nio-9092-exec-5 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 19:55:52.763 | http-nio-9092-exec-7 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=l41FHth/Z5Dt5cXyBQ6choT0mrHah45sKt8/HTdH6+w2aKZkLsqZnFn03EcjzRBmNAY8A3zsnTkVjSISazFDAFs4CzJKaHhwWcFvoZED/78ySkPE8l1eHdekrxYILWJ+a20ycNWD6MnJc3LhyUSDe4B9U+O/DUhdpjC08ZeSxOTyGsSlF8hwfd3g0nIbXe3ZNWd92XZa2WsJA4EgCPJxU3Myim/FqZqy5mZfgYiXAYgcvKBwP7kYdTlr54pkZ0XNP0Gll6iK//m+qD6go0Lv+8db6kQ8naiK7WlY5HFGRtuIWCYUg4CN5btLPbFa8nmUjj7WIRDYxXtv1Z9laOARYg==, password=Si6Zz7Y9SMcHdbjoEPFTeVOTvFFArAOjX27ZhpCipafdoRI0hAe5UGuhyJb0eX0Ok3M2KBvfUxg95uarEWdIu5nqMnGCm9Fkcac5GHv0SyZbeCQDlXd8UIT7VvtP3p6QKJf5BJL3gAJp7HwoH3hcaDKZ8u9/DxUqubynvfeSqGLKzqwvpF8yDpAqthaIUKJUiXmhr0zt7r4qY30pcMw/qvOL7+rfA6PATE832DCgSzF/eBgBnSDHB9Rt3jzd0mWKcA4rBbHQk0fXqgaL4aq43YXM0syRILF3tXmja3NOOyWLgQt77EfUZFEeJvqEaVoxVE1k4GEahE8x86qVSL0IRQ==)
+-1 09-18 19:55:52.811 | http-nio-9092-exec-7 |-INFO  com.example.demo.util.TokenUtil:30 - -----Token----------
+-1 09-18 19:55:52.814 | http-nio-9092-exec-7 |-INFO  com.example.demo.util.TokenUtil:38 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMTc1Mn0.tafFaLeJAw2TqvxyTPN4smhhyoFD42rsIDc9avrkxtQ-------
+-1 09-18 19:55:52.815 | http-nio-9092-exec-7 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 19:57:07.018 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s674ms).
+-1 09-18 20:01:41.352 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+-1 09-18 20:01:41.394 | SpringApplicationShutdownHook |-INFO  com.zaxxer.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+-1 09-18 20:01:48.739 | main |-INFO  c.e.d.ExamSystemPracticeApplication:55 - Starting ExamSystemPracticeApplication using Java 1.8.0_322 on SW.local with PID 83860 (/Users/sw/Desktop/ExamSystemPractice/${project.build.directory}/classes started by sw in /Users/sw/Desktop/examsystemDemo/ExamSystemPractice)
+-1 09-18 20:01:48.743 | main |-INFO  c.e.d.ExamSystemPracticeApplication:634 - No active profile set, falling back to 1 default profile: "default"
+-1 09-18 20:01:51.063 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:262 - Multiple Spring Data modules found, entering strict repository configuration mode
+-1 09-18 20:01:51.071 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+-1 09-18 20:01:51.174 | main |-INFO  o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 65 ms. Found 0 Redis repository interfaces.
+-1 09-18 20:01:52.909 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 9092 (http)
+-1 09-18 20:01:52.945 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-9092"]
+-1 09-18 20:01:52.945 | main |-INFO  o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+-1 09-18 20:01:52.945 | main |-INFO  o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+-1 09-18 20:01:53.128 | main |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+-1 09-18 20:01:53.129 | main |-INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:292 - Root WebApplicationContext: initialization completed in 4215 ms
+-1 09-18 20:01:55.561 | main |-INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+-1 09-18 20:01:56.422 | main |-INFO  o.a.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-9092"]
+-1 09-18 20:01:56.460 | main |-INFO  o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 9092 (http) with context path ''
+-1 09-18 20:01:56.469 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:160 - Context refreshed
+-1 09-18 20:01:56.512 | main |-INFO  s.d.s.w.p.DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+-1 09-18 20:01:56.573 | main |-INFO  s.d.s.w.s.ApiListingReferenceScanner:41 - Scanning for api listing references
+-1 09-18 20:01:57.020 | main |-INFO  c.e.d.ExamSystemPracticeApplication:61 - Started ExamSystemPracticeApplication in 9.141 seconds (JVM running for 10.304)
+-1 09-18 20:02:05.747 | http-nio-9092-exec-1 |-INFO  o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+-1 09-18 20:02:05.749 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+-1 09-18 20:02:05.754 | http-nio-9092-exec-1 |-INFO  o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 5 ms
+-1 09-18 20:02:05.951 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=Fm1SJvN4KbWbWbm9fqY4zJFMLp4BD9yH8JqT4rCMhAvrKUm+Vz7IBJbkHaiai139SkrbfFCRGAI5/XxeR/DESNJTrEmBabQ0m6bQsUKIFulGA5EB/zcsFCxRuH3yGpqMqq2Cb22fDuTf101ip3QVKW8ykvDmYXG4/i+yRkMmyVrBs8ude3sScyhWjd63nJz8EgkkQY1maEslF6epSscgHTb8YgkQkL6Hebf+bWx4C+E7DLTgJAF729X6hz96hBkIOukJogIoE8e9O3ESLh817u/YRKP3KbehBmtfzjoRTw+G+lsIkruQwGo2oKP2m+weImU6hxMYc37lKtMppiTB8g==, password=DigECZVgKNWZNl7AgUrOLCciLEaxqzQ+hGVdCDb7pNY0cDbhsYynThjIePjAvzSbimdlykxozoE2+Y5bymOhL6uH1qjk5tWTtyy84PZS0N9btRSVICaLSg0zqh/a86XJb0vv/uNrvQiZ1UGb/Qohr88pn8L6nRywXPyl0JptMRezHDVb8y+GpcfWsK2ZSJbC+3Ae2vHCD+u0FOMlgQMJPfrkpmamlUMepT0R5A8yPiNeiNfDraMGyyl8sYn4rYYRNLJJ/4ilvoxrABg0oqQGBjTLm81WRJgwRzeJPIsulkw3nflo8Tdc6dSD7Yud7Tj5a1sTym1urI7w00vg4xkMqw==)
+-1 09-18 20:02:06.088 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+-1 09-18 20:02:06.788 | http-nio-9092-exec-1 |-INFO  com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+-1 09-18 20:02:06.934 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:31 - -----Token----------
+-1 09-18 20:02:06.970 | http-nio-9092-exec-1 |-INFO  com.example.demo.util.TokenUtil:39 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMjEyNn0.HhSPNeSM7gXPh-N4RNwRNGzuSbor6QkrD7D98ouoZfA-------
+-1 09-18 20:02:06.971 | http-nio-9092-exec-1 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 20:02:07.791 | http-nio-9092-exec-2 |-ERROR o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.] with root cause
+com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.
+	at com.auth0.jwt.JWTVerifier.assertValidStringClaim(JWTVerifier.java:424)
+	at com.auth0.jwt.JWTVerifier.verifyClaims(JWTVerifier.java:382)
+	at com.auth0.jwt.JWTVerifier.verify(JWTVerifier.java:355)
+	at com.example.demo.util.TokenUtil.getUserPhone(TokenUtil.java:71)
+	at com.example.demo.controller.MenuController.getRouter(MenuController.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+-1 09-18 20:02:24.111 | http-nio-9092-exec-3 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=eVuGJ19rx3enPrc8iF97tNlXv9fAb2L/TTqG+1CmXlzTugkaQhXSJ/hTquLKrX4iWqqBYLV2P1RTqrdiLfRff/kseKfUMdGIiirUokS6DqVTaRHxFE13uzZbucEBn7DgS/OM5cxzAtB3oIB4Qwv0m1FjmWCi6YIavex/QbN2XrY23vN+d73JdgQj1gvj/kiMghoXgvdP/EE3axJnCe53224nGEALiv12TQL9ea/9pxUHl+8lOaUk/Uil1ttwXbf56JZo75p/IesWID3zyoGrqRph5ukEBQNgNWhXNUYk1GoJGehfURC0ar466RI3W8J483HGcOze7UnfFj8SfI29Bg==, password=dVOZDh3gs+zCf19roFVEjYbjxuVwXfNLx0U292Z+v+gFCA3FIzKfGN9PCTxzn9gwU4iICreoL3F5Ka7CyxdkD6PQRjP4Z5V1yQ+OTvv/67WG+Y4YS43oQ2Vra7hPBu2Cd8sJ2/rKlusjpV6BdQ6CmhnsNBretmbAlfhmf0h05uQaegT8J7IfYXmsqMwrYXfTIvhrat0KqTWUPcHFoytSrFVsPJUnGI2P9tiK8PxtPW5ltCUMYyFgN5tx7QmTJmllvroI8hV/Vijd4w/ZvEUSYxalF6j73uiYMvt7llRgyhtPXqc19BOEYjsyleqGRN6tywryOZCahtH+YBE3Uwsdag==)
+-1 09-18 20:02:24.156 | http-nio-9092-exec-3 |-INFO  com.example.demo.util.TokenUtil:31 - -----Token----------
+-1 09-18 20:02:24.162 | http-nio-9092-exec-3 |-INFO  com.example.demo.util.TokenUtil:39 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMjE0NH0.p3mpK3N0NZHK5gcf5pY_ai3-NVaO-V_1GTs9TemdsYY-------
+-1 09-18 20:02:24.163 | http-nio-9092-exec-3 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 20:02:24.219 | http-nio-9092-exec-4 |-ERROR o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.] with root cause
+com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.
+	at com.auth0.jwt.JWTVerifier.assertValidStringClaim(JWTVerifier.java:424)
+	at com.auth0.jwt.JWTVerifier.verifyClaims(JWTVerifier.java:382)
+	at com.auth0.jwt.JWTVerifier.verify(JWTVerifier.java:355)
+	at com.example.demo.util.TokenUtil.getUserPhone(TokenUtil.java:71)
+	at com.example.demo.controller.MenuController.getRouter(MenuController.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+-1 09-18 20:02:55.586 | http-nio-9092-exec-5 |-INFO  c.e.d.service.Impl.UserServiceImpl:38 - ----login-----UserDTO(phone=lfTowDfuAPdP55TfOofK0ltx97coXn1O/doqG11pQGf1kEIaP0xYiM4IH0uNLAduhATcsYECTTfHqGu0J91AWBLrKwow4aNtskxPh8BdouxLCol7G+wN0AxPsV6TjUr4Urbagw9DQO0+/e5Q2jrbeubemiPMiguYy/DZccvSMxWXTcMasH1EBu/HLQT68XNBLk6HQDFFtxI4g37UUYROuQxAkPncJWk/agKInSgJzwbmjThrhLM3mZkMwHrstaeeEn0QalMtHRWWHMlM2usLJAHLzZpwlpIw+S0zlu6qPblHFeoMgaTjQhyHMfzZsXzcTq+RZUpadPMXUrzzn0qTXw==, password=C0XxKSbrUuh2fSEyPRCXnQ9t8/dxCg0ohhxjHJXOsZx7/NLYxeDcv71afV3zDgCc+ArsBN3OE1kswa1OI/Ek9XvjdUQIZUsAy8zo9wbUlKcQhGS/hSYC+OtXB+0rHWHX2uNaCroxBJSYC61oRGtX4LNxtGGWwIyZrXyhW7044YHGCU2R2QPjXJx277aHjUkT28SC5gMRHybe2bK8mIWrP7rUPEKxSx4RupnnPn7+F1Glrt1x20Hk9y12wJrrSBFf7RtV7LlUExilj3INffKeMdPHRRYgj0uASbDgYpuoLrw11xsPLmm28oY2kHNXiWgOYhiyDXrdmZZCYZyrSY8wPg==)
+-1 09-18 20:02:55.624 | http-nio-9092-exec-5 |-INFO  com.example.demo.util.TokenUtil:31 - -----Token----------
+-1 09-18 20:02:55.626 | http-nio-9092-exec-5 |-INFO  com.example.demo.util.TokenUtil:39 - -------Finished Token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjE4NjExMzA0MzEzIiwiaXNzIjoic2FtIiwibmFtZSI6InNhbSIsImV4cCI6MTY2MzYzMjE3NX0.lnb-SuDS_WNGGDdzCg9St9SYjfScm9JQoSgTDj-QMcE-------
+-1 09-18 20:02:55.627 | http-nio-9092-exec-5 |-INFO  c.e.d.service.Impl.UserServiceImpl:66 - ----login finished-----UserVO(id=48, name=sam, nickName=sam, age=23, sex=1, phone=18611304313, password=09d488777aa16ffe939cf88a0145df8b1414a16a4c4ff2d01eb0b4f29846ae3d, keyUuid=6c03040b1d7e456587b03219a5f42433, number=0, address=110000,110100,110101|aaaa, role=2, useYn=0, deleteYn=0, registrationTime=Wed Sep 07 11:12:37 EDT 2022)
+-1 09-18 20:03:29.979 | http-nio-9092-exec-6 |-ERROR o.a.c.c.C.[.[.[.[dispatcherServlet]:175 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.] with root cause
+com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one.
+	at com.auth0.jwt.JWTVerifier.assertValidStringClaim(JWTVerifier.java:424)
+	at com.auth0.jwt.JWTVerifier.verifyClaims(JWTVerifier.java:382)
+	at com.auth0.jwt.JWTVerifier.verify(JWTVerifier.java:355)
+	at com.example.demo.util.TokenUtil.getUserPhone(TokenUtil.java:71)
+	at com.example.demo.controller.MenuController.getRouter(MenuController.java:68)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1070)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+-1 09-18 20:09:38.942 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s466ms).
+-1 09-18 20:26:54.780 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m45s799ms).
+-1 09-18 21:18:11.496 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m16s716ms).
+-1 09-18 21:38:49.778 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m38s283ms).
+-1 09-18 21:57:55.942 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m6s163ms).
+-1 09-18 23:21:56.595 | HikariPool-1 housekeeper |-WARN  com.zaxxer.hikari.pool.HikariPool:788 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m654ms).
